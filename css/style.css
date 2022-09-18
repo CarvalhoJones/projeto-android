@@ -71,7 +71,7 @@ nav > a {
     display: inline-block;
     color: var(--cor1);
     border-radius: 7px;
-    padding: 10px;
+    padding: 5px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: .8s;
